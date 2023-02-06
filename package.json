@@ -12,14 +12,14 @@
     "url": "git+https://github.com/rupamgupta-github/blogGroup7.git"
   },
   "keywords": [
-    "blog"
+    
   ],
-  "author": "Pratham, Raja, Arshad, Rupam",
+  "author": " Raja",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rupamgupta-github/blogGroup7/issues"
+    "url": "https://github.com/raja-paswan/Company-Project.git"
   },
-  "homepage": "https://github.com/rupamgupta-github/blogGroup7#readme",
+  "homepage": "https://github.com/raja-paswan/Company-Project.git",
   "dependencies": {
     "express": "^4.18.2",
     "jsonwebtoken": "^8.5.1",
